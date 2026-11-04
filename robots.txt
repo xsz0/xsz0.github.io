@@ -11,5 +11,5 @@ Allow: /blog/
 #Disallow: /vendors/
 #Disallow: /fancybox/
 
-Sitemap: http://xszhao.science/blog/sitemap.xml
-Sitemap: http://xszhao.science/blog/baidusitemap.xml
+Sitemap: https://xsz0.com/blog/sitemap.xml
+Sitemap: https://xsz0.com/blog/baidusitemap.xml
